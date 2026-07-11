@@ -132,7 +132,7 @@ export default function Footer() {
 
       {/* Bottom bar */}
       <div className="border-t border-gray-800 pt-6 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-gray-500">
-        <p>© 2025 Navjivan Hospital. All rights reserved.</p>
+        <p>© 2026 Navjivan Hospital. All rights reserved.</p>
 
         {/* Center */}
         <a
