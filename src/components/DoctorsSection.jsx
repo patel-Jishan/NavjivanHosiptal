@@ -44,7 +44,7 @@ const doctors = [
       "MBBS",
       "MD Medicine",
       "Consulting Physician",
-      "Fellow R.L.A (UK)",
+      "Diabetes & Critiacal Care Specialist (Fellow-UK) Clinical Cardiologist",
     ],
     experience: "10+ Years",
     rating: 5,
