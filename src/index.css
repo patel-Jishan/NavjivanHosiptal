@@ -277,3 +277,14 @@
     inset: -1px;
   }
 }
+body {
+  cursor: none;
+}
+
+a,
+button,
+input,
+textarea,
+select {
+  cursor: none;
+}

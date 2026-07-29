@@ -5,7 +5,7 @@ import { useRef, useState } from "react";
 const testimonials = [
     {
         name: "Ramesh Shah",
-        location: "Ahmedabad, Gujarat",
+        location: "Bharuch, Gujarat",
         rating: 5,
         text: "Dr. Nikhilkumar Patel and his team saved my life. After my heart attack, their prompt response and expert care helped me recover fully and return to my family. Navjivan Hospital is a true blessing.",
         treatment: "Cardiac Care",
@@ -32,7 +32,7 @@ const testimonials = [
     },
     {
         name: "Sunita Joshi",
-        location: "Rajkot, Gujarat",
+        location: "Bharuch, Gujarat",
         rating: 5,
         text: "The orthopedic team handled my knee replacement surgery with utmost precision. Recovery was smooth and the physiotherapy support was fantastic. Back to walking without pain!",
         treatment: "Orthopedics",
@@ -41,7 +41,7 @@ const testimonials = [
     },
     {
         name: "Mihir Trivedi",
-        location: "Gandhinagar, Gujarat",
+        location: "Bharuch, Gujarat",
         rating: 5,
         text: "World-class neurology care right here in Gujarat. Dr. Patel's diagnosis was spot-on and the treatment plan worked wonders. Grateful for the attentive nursing staff as well.",
         treatment: "Neurology",

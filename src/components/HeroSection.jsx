@@ -39,7 +39,7 @@ export default function HeroSection() {
           <div>
             <motion.div variants={fadeUp} initial="hidden" animate="show" custom={0} className="inline-flex items-center gap-2 bg-white/10 backdrop-blur-sm border border-white/20 text-white px-4 py-2 rounded-full text-sm font-medium mb-6">
               <Activity className="w-4 h-4 text-green-400"/>
-              Multi-Speciality Hospital —  Bharuch , Gujarat 
+              Multi-Speciality Hospital — Bharuch,Gujarat 
             </motion.div>
 
             <motion.h1 variants={fadeUp} initial="hidden" animate="show" custom={1} className="text-5xl lg:text-7xl font-bold text-white leading-[1.05] mb-4">
