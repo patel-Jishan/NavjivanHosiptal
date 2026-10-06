@@ -107,7 +107,7 @@ export default function Footer() {
                 <MapPin className="w-3.5 h-3.5 text-blue-400" />
               </div>
               <span className="text-sm text-gray-400 leading-relaxed">SECOND FLOOR, Skyline Business Hub, Old Relief
-                Cinema Complex, Panchbatti, Station Road Bharuch, Gujarat, 892001</span>
+                Cinema Complex, Panchbatti, Station Road Bharuch, Gujarat, 392001</span>
             </li>
             <li className="flex items-start gap-3">
               <div className="w-8 h-8 rounded-lg bg-green-600/20 flex items-center justify-center flex-shrink-0">
