@@ -278,7 +278,7 @@
   }
 }
 body {
-  cursor: none;
+  cursor: auto;
 }
 
 a,
@@ -286,5 +286,5 @@ button,
 input,
 textarea,
 select {
-  cursor: none;
+  cursor: auto;
 }

@@ -3,14 +3,13 @@ import { useLocation } from "wouter";
 import { Menu, X, Phone, Heart } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 const navLinks = [
-    { label: "Home", href: "#home" },
-    { label: "About", href: "#about" },
-    { label: "Doctors", href: "#doctors" },
-    { label: "Services", href: "#services" },
-    { label: "Gallery", href: "/gallery" },
-    { label: "Testimonials", href: "#testimonials" },
-    { label: "Contact", href: "#contact" },
-    
+  { label: "Home", href: "#home" },
+  { label: "About", href: "#about" },
+  { label: "Doctors", href: "/doctors" },
+  { label: "Services", href: "#services" },
+  { label: "Gallery", href: "/gallery" },
+  { label: "Testimonials", href: "#testimonials" },
+  { label: "Contact", href: "#contact" },
 ];
 export default function Navbar() {
     const [scrolled, setScrolled] = useState(false);
